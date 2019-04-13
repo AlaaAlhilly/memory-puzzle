@@ -1,0 +1,10 @@
+.left_p{
+    background-color: bisque;
+    padding-top: 20px;
+    width: 100%;
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+    box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+}
+p{
+    margin-top: 10px
+}
